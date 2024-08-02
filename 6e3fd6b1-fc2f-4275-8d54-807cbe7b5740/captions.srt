@@ -1,0 +1,492 @@
+1
+00:00:00,330 --> 00:00:02,609
+so at this point we're pretty familiar with all of the data type that
+
+2
+00:00:02,609 --> 00:00:08,460
+come native to see we have characters and floats and integers and doubles and
+
+3
+00:00:08,460 --> 00:00:13,170
+we're also familiar now with the cs fifty data types of strings and bulls
+
+4
+00:00:13,800 --> 00:00:17,010
+but that doesn't limit everything that we can do we surely can do more
+
+5
+00:00:17,400 --> 00:00:19,770
+indeed with structures that cause this inability to start to
+
+6
+00:00:20,190 --> 00:00:24,450
+our own data types might be useful for our own programs what's cool about
+
+7
+00:00:24,450 --> 00:00:29,130
+structures as they allow us to unify many different variables of different data types
+
+8
+00:00:29,160 --> 00:00:33,270
+into a single brand new type and we can give that new type it's
+
+9
+00:00:33,270 --> 00:00:37,110
+own unique type name as a way to identify it this isn't the first
+
+10
+00:00:37,110 --> 00:00:40,320
+time we've seen the ability to combine multiple variables together
+
+11
+00:00:40,320 --> 00:00:43,230
+either we've seen that with a raise remember the restriction with a raise that
+
+12
+00:00:43,230 --> 00:00:45,660
+we can only combine things of the same type we can have a whole
+
+13
+00:00:45,660 --> 00:00:49,350
+bunch of integers are whole bunch of floats but we can't mix them up
+
+14
+00:00:49,890 --> 00:00:54,090
+with structures we actually can we can group together logical we can live together
+
+15
+00:00:54,090 --> 00:00:57,090
+elements that have a logical connection to one another so for example we can
+
+16
+00:00:57,090 --> 00:01:00,480
+group together a structure for like say a student where
+
+17
+00:01:00,480 --> 00:01:03,240
+a student would have an id number which is probably an integer but they
+
+18
+00:01:03,240 --> 00:01:06,030
+also have a name which is a string and they might have a g
+
+19
+00:01:06,030 --> 00:01:09,030
+p a which is a float and we can have all of these things
+
+20
+00:01:09,030 --> 00:01:13,590
+tied together and basically what's a super variable is a variable that has other
+
+21
+00:01:13,590 --> 00:01:17,880
+variables within it the way to do to do this and see is actually
+
+22
+00:01:17,880 --> 00:01:20,580
+pretty straightforward simpson text might look like this instead of a student
+
+23
+00:01:20,640 --> 00:01:25,380
+in this example let's use a car we introduced the concept of a structure
+
+24
+00:01:25,380 --> 00:01:29,610
+by saying struct we're about to define a structure type and in particular we're
+
+25
+00:01:29,610 --> 00:01:34,860
+going to define a struct car and struct car actually now becomes our type
+
+26
+00:01:34,980 --> 00:01:40,050
+name it's not just car it's struct car inside of the curly braces from
+
+27
+00:01:40,050 --> 00:01:40,770
+this point forward
+
+28
+00:01:40,800 --> 00:01:44,520
+we can define all of the different variables that we want inside of our
+
+29
+00:01:44,520 --> 00:01:48,000
+super variable so for example here are some things that are common to cars
+
+30
+00:01:48,000 --> 00:01:53,310
+they have a year either they were manufactured we have a model and a
+
+31
+00:01:53,310 --> 00:01:57,210
+license plate and an odometer which has a number of miles and maybe they
+
+32
+00:01:57,210 --> 00:02:00,270
+have an engine size which in the united states is usually represented as a
+
+33
+00:02:00,270 --> 00:02:00,960
+float for
+
+34
+00:02:01,088 --> 00:02:05,670
+how many leaders on the engine the capacity is and notice that these are
+
+35
+00:02:05,670 --> 00:02:09,390
+all different datatypes mixed together we have integers and we have two strings and
+
+36
+00:02:09,390 --> 00:02:13,650
+we have a float or double all mixed up inside of one super variable
+
+37
+00:02:14,160 --> 00:02:16,890
+to finish our definition of the structure we have a closing curly brace and
+
+38
+00:02:16,890 --> 00:02:21,000
+then really important that common syntax error is a semi colon at the end
+
+39
+00:02:21,000 --> 00:02:21,120
+which
+
+40
+00:02:21,120 --> 00:02:26,580
+she completes our definition of a struct car once we defined the structure and
+
+41
+00:02:26,580 --> 00:02:29,700
+usually we defined our structure at the very top of our program up near
+
+42
+00:02:30,210 --> 00:02:33,150
+our lb includes in our lb defines we also might define them in a
+
+43
+00:02:33,150 --> 00:02:38,880
+separate dot h file because maybe we're using this type definition in several different
+
+44
+00:02:38,940 --> 00:02:41,280
+files or several different programs and so it may
+
+45
+00:02:41,310 --> 00:02:45,960
+sense to define it somewhere outside of one outside of a single file and
+
+46
+00:02:45,960 --> 00:02:48,720
+have it be a dot h file that we can pound include in multiple
+
+47
+00:02:48,720 --> 00:02:52,560
+different contexts now we have effectively created this new type and we can start
+
+48
+00:02:52,560 --> 00:02:56,520
+to use it and and we can create variables of this type just like
+
+49
+00:02:56,520 --> 00:02:59,820
+we can create variables of any other type int x that's how we create
+
+50
+00:02:59,820 --> 00:03:01,440
+an integer called x struck
+
+51
+00:03:01,470 --> 00:03:05,460
+the car why that's how we create a variable called y of type struct
+
+52
+00:03:05,460 --> 00:03:09,660
+car so that's how we create the variable overall how do we create the
+
+53
+00:03:09,660 --> 00:03:14,400
+individual fields or members of that or rather how do we access the individual
+
+54
+00:03:14,400 --> 00:03:18,150
+fields are members of that structure we can do so using something called the
+
+55
+00:03:18,150 --> 00:03:21,600
+dot operator let's take a look at what that looks like so the top
+
+56
+00:03:21,683 --> 00:03:26,940
+here i have a variable declaration struct car my car again here the type
+
+57
+00:03:26,970 --> 00:03:32,460
+is struct car and the variable name is my car from this point forward
+
+58
+00:03:32,460 --> 00:03:37,440
+whenever i want to refer to a field or a member within my car
+
+59
+00:03:37,470 --> 00:03:40,980
+which is again the variable name i can use the dot operator to access
+
+60
+00:03:40,980 --> 00:03:41,760
+those individuals
+
+61
+00:03:41,760 --> 00:03:46,200
+fields within my car so i could say for example my car dot year
+
+62
+00:03:46,200 --> 00:03:48,870
+equals two thousand and eleven i can't just a year equals two thousand and
+
+63
+00:03:48,870 --> 00:03:53,220
+eleven year is something that is part of my car so i have to
+
+64
+00:03:53,220 --> 00:03:56,850
+always refer to it in the context of my car i can i can
+
+65
+00:03:56,850 --> 00:04:01,380
+say stir copy my car dot plate cs fifty remember it's a string i
+
+66
+00:04:01,380 --> 00:04:01,920
+can't just ask
+
+67
+00:04:01,950 --> 00:04:07,350
+sign it i have to copy that string into the variable i can say
+
+68
+00:04:07,350 --> 00:04:10,470
+my car dot odometer equals five o five o five or anything else that
+
+69
+00:04:10,470 --> 00:04:13,320
+i want to do i can set the i can set the engine size
+
+70
+00:04:13,320 --> 00:04:15,749
+and i can set the model i can do whatever else i want to
+
+71
+00:04:15,749 --> 00:04:16,080
+do
+
+72
+00:04:17,430 --> 00:04:20,070
+just by accessing the fields similar to this
+
+73
+00:04:21,510 --> 00:04:24,600
+but structures like variables of all other data we don't have to just use
+
+74
+00:04:24,600 --> 00:04:28,890
+the stack for this we don't just have to say struct car my car
+
+75
+00:04:28,890 --> 00:04:32,520
+semicolon we could dynamically allocate this if we don't know at the beginning of
+
+76
+00:04:32,520 --> 00:04:35,190
+our program for example that we're going to need a certain number of these
+
+77
+00:04:35,190 --> 00:04:40,770
+things we can just declare this on the fly dynamically using pointers of course
+
+78
+00:04:41,670 --> 00:04:45,120
+in order to access our fields in that situation we don't use just the
+
+79
+00:04:45,120 --> 00:04:47,970
+dot operator because we have a pointer to a structure we also have to
+
+80
+00:04:47,970 --> 00:04:52,830
+first as you may recall dereference that pointer and then access it's fields it
+
+81
+00:04:52,833 --> 00:04:55,680
+adds a little bit of extra stuff but let's take a look again here
+
+82
+00:04:56,070 --> 00:05:00,870
+so here now instead of statically declaring a struct car called my car i'm
+
+83
+00:05:00,870 --> 00:05:01,440
+going to dine
+
+84
+00:05:01,440 --> 00:05:07,470
+chemically allocate a struct car called my car so struct car star my car
+
+85
+00:05:07,920 --> 00:05:10,950
+and then i'm going to malloc space for a struct car and here's the
+
+86
+00:05:10,950 --> 00:05:14,340
+cool thing about size of size of is not just built in it doesn't
+
+87
+00:05:14,340 --> 00:05:18,330
+just happen to know just the size of integers characters floats and doubles it
+
+88
+00:05:18,330 --> 00:05:21,600
+can also figure out on the fly exactly how much space is required
+
+89
+00:05:21,600 --> 00:05:24,120
+fired for a struct car so you don't have to go through and figure
+
+90
+00:05:24,120 --> 00:05:26,850
+out like okay well this is probably like thirty bytes or something you can
+
+91
+00:05:26,850 --> 00:05:29,640
+just say size of struct car and let the computer figure it out for
+
+92
+00:05:29,640 --> 00:05:34,350
+you so struct carstar my car he calls malloc size of struct car that
+
+93
+00:05:34,350 --> 00:05:40,170
+dynamically allocated on the heap one chunk of memory large enough to hold a
+
+94
+00:05:40,170 --> 00:05:41,760
+single struct car within it
+
+95
+00:05:42,570 --> 00:05:47,940
+and then i can access my fields by first d referencing the pointer and
+
+96
+00:05:47,940 --> 00:05:51,060
+then once i've dereference the pointer i can then use the dot operator to
+
+97
+00:05:51,060 --> 00:05:55,200
+access the fields again it's very similar to what we just saw but the
+
+98
+00:05:55,200 --> 00:05:58,200
+syntax here is a little cumbersome right now we have extra parentheses we have
+
+99
+00:05:58,200 --> 00:06:01,796
+this star we have this dot surely there's gotta be an easier way see
+
+100
+00:06:01,800 --> 00:06:01,920
+pro
+
+101
+00:06:01,950 --> 00:06:04,710
+grammar is love then it'd be easier ways to do things in fact there
+
+102
+00:06:04,710 --> 00:06:10,980
+is a shortcut for this it so happens that accessing the field of a
+
+103
+00:06:10,980 --> 00:06:15,660
+structure via it's pointer is a common enough operation that there is an entirely
+
+104
+00:06:15,660 --> 00:06:19,680
+different operator that allows us to do this much more simply and is called
+
+105
+00:06:19,680 --> 00:06:22,080
+the arrow operator which is a hyphen and then a
+
+106
+00:06:22,080 --> 00:06:26,250
+a greater than symbol literally making it look like it's an arrow and it
+
+107
+00:06:26,250 --> 00:06:30,450
+does two operations back to back so for the first thing it does is
+
+108
+00:06:30,450 --> 00:06:34,680
+it d references the pointer which is on the left of the arrow and
+
+109
+00:06:34,680 --> 00:06:37,500
+then it's going to access the field which is on the right of the
+
+110
+00:06:37,500 --> 00:06:38,940
+arrow so for example
+
+111
+00:06:40,170 --> 00:06:42,960
+this is what the code looked liked before this is what we just haven't
+
+112
+00:06:42,960 --> 00:06:46,650
+said a second ago where i'm due referencing pointers and then act using the
+
+113
+00:06:46,650 --> 00:06:51,030
+dot operator to access the fields here's what the same code would look like
+
+114
+00:06:51,030 --> 00:06:54,060
+with the arrow syntax and the same thing is happening here the first thing
+
+115
+00:06:54,060 --> 00:06:57,900
+i'm doing is i'm d referencing my car but the arrow operator does that
+
+116
+00:06:57,900 --> 00:07:00,240
+for me i don't have to use the star syntax it just knows
+
+117
+00:07:00,240 --> 00:07:03,090
+as if i have an arrow there i needed the first d reference the
+
+118
+00:07:03,104 --> 00:07:07,230
+thing on the left and then i can access the field on the right
+
+119
+00:07:07,440 --> 00:07:11,010
+so using the arrow operator is a great way to have a shorthand for
+
+120
+00:07:11,040 --> 00:07:14,730
+access in the field of a structure to which you only have a pointer
+
+121
+00:07:14,730 --> 00:07:19,050
+and you'll probably use this a fair amount so it's syntax definitely to to
+
+122
+00:07:19,050 --> 00:07:20,400
+befriend and to get used to
+
+123
+00:07:21,630 --> 00:07:23,490
+i'm doug lloyd this is the us fifty
+

@@ -1,0 +1,548 @@
+1
+00:00:00,000 --> 00:00:02,580
+an area of the matter the channel i hope you guys are doing extremely
+
+2
+00:00:02,580 --> 00:00:06,330
+well today's video is going to be extremely important because i'm going to talk
+
+3
+00:00:06,330 --> 00:00:11,070
+about the current generation's obsession with solving five hundred or more lead core problems
+
+4
+00:00:11,100 --> 00:00:15,030
+wherever i see the like assault five hundred have sold eight hundred thousand barrels
+
+5
+00:00:15,038 --> 00:00:17,910
+what we are going to talk about in this video so i'm not sure
+
+6
+00:00:17,910 --> 00:00:20,160
+if you know me or not so during my time added
+
+7
+00:00:20,190 --> 00:00:24,239
+internet amazon after that i joined media dot net as a software engineer and
+
+8
+00:00:24,239 --> 00:00:26,130
+four guys who know me dot net
+
+9
+00:00:26,760 --> 00:00:29,995
+are the interviews that media dot net after that i went on to give
+
+10
+00:00:29,995 --> 00:00:32,850
+interviews of facebook and google and kulgam working at google
+
+11
+00:00:34,200 --> 00:00:34,858
+like this
+
+12
+00:00:35,527 --> 00:00:39,540
+entirely in and out so i know how much is required been seeing this
+
+13
+00:00:39,540 --> 00:00:43,890
+pattern lately that people are just running behind those numbers and that is what
+
+14
+00:00:43,920 --> 00:00:48,480
+i will be talking about in this video understand numbers give you a dopamine
+
+15
+00:00:48,480 --> 00:00:52,890
+but you need to use your brain wisely because time is critical like you
+
+16
+00:00:52,890 --> 00:00:55,500
+cannot just waste your time just to increase those
+
+17
+00:00:55,953 --> 00:00:59,790
+to decorate your profile because at the end of the day what matters is
+
+18
+00:00:59,820 --> 00:01:03,450
+your skill sets so what we will be talking about in this video as
+
+19
+00:01:03,450 --> 00:01:06,660
+the things that you need to do other things that you do not need
+
+20
+00:01:06,660 --> 00:01:09,480
+to do when you're using lead called for interview prep
+
+21
+00:01:10,740 --> 00:01:15,120
+do not solve problems that you know you can add is very very important
+
+22
+00:01:15,210 --> 00:01:18,960
+what seen is people know the solution of a problem this stereotype the code
+
+23
+00:01:19,230 --> 00:01:22,980
+just click on the submit because they want to see that accepted thing dude
+
+24
+00:01:23,010 --> 00:01:27,460
+what are you doing not upskilling yourself you're just satisfying your ego that yes
+
+25
+00:01:27,768 --> 00:01:31,830
+it's always actually didn't you already have solved that problem that is why you're
+
+26
+00:01:31,830 --> 00:01:35,940
+able to solve the problem in one go you only solve problems for which
+
+27
+00:01:35,970 --> 00:01:39,120
+you don't know the solution you only solved problem for which you did
+
+28
+00:01:39,132 --> 00:01:42,600
+don't know if this solution will work or not any problem that you know
+
+29
+00:01:42,600 --> 00:01:46,020
+that you have solved this problem or i know that the solution is definitely
+
+30
+00:01:46,020 --> 00:01:49,769
+going to have avoided move ahead that is what you need to do before
+
+31
+00:01:49,769 --> 00:01:54,570
+my amazon internship interview the number of problems i did was overall two fifty
+
+32
+00:01:54,570 --> 00:01:56,731
+only it could make sure those
+
+33
+00:01:57,569 --> 00:02:02,789
+problems so it's important that you solve quality problems that you cannot solve on
+
+34
+00:02:02,789 --> 00:02:06,720
+the first call that you've like you are not sure of the optimal solution
+
+35
+00:02:06,810 --> 00:02:10,716
+only those problems are the ones that you should solve and please do not
+
+36
+00:02:10,716 --> 00:02:14,430
+solve for the sake of the numbers the competition rising up solving problems alone
+
+37
+00:02:14,430 --> 00:02:17,400
+is not going to help you you will need to build projects
+
+38
+00:02:17,527 --> 00:02:21,780
+need to get mock interviews resume has to be polished enough and you'll be
+
+39
+00:02:21,780 --> 00:02:25,227
+requiring reference when the time is their total recommended
+
+40
+00:02:25,518 --> 00:02:29,430
+check out replaced because they have some amazing mentors why am i talking about
+
+41
+00:02:29,430 --> 00:02:34,560
+maintains because everyone yes everyone has a personalised query where struggling from something or
+
+42
+00:02:34,560 --> 00:02:38,280
+something else and they need a personalized roadmap and this is where the main
+
+43
+00:02:38,280 --> 00:02:41,700
+test comment they will be sitting with you they'll be hearing all your doubts
+
+44
+00:02:41,730 --> 00:02:44,940
+and after that we'll be preparing you a personalised roadmap
+
+45
+00:02:45,600 --> 00:02:49,045
+oh that roadmap and every week they'll be checking up on you okay did
+
+46
+00:02:49,045 --> 00:02:52,530
+you do it hey did you do it and when someone is watching trust
+
+47
+00:02:52,530 --> 00:02:55,860
+me you tend to perform a lot better once you're prepared once you have
+
+48
+00:02:55,860 --> 00:03:00,120
+done your projects after that they'll be helping you with mock interview so that
+
+49
+00:03:00,360 --> 00:03:04,590
+before the interview you get a vibe of how the interviews after that they
+
+50
+00:03:04,590 --> 00:03:05,760
+will be polishing your rescue
+
+51
+00:03:06,450 --> 00:03:09,900
+once you're done with that they'll also be helping you with reference because most
+
+52
+00:03:09,900 --> 00:03:13,380
+of the engineers have a good circle as well so what are you waiting
+
+53
+00:03:13,380 --> 00:03:17,130
+for book your free trial session with the mental of your choice right now
+
+54
+00:03:17,130 --> 00:03:18,060
+at replaced
+
+55
+00:03:19,273 --> 00:03:21,810
+thousand in order to get extra housing projects
+
+56
+00:03:22,560 --> 00:03:26,400
+to try learning topics packed and vice versa
+
+57
+00:03:27,120 --> 00:03:29,699
+people want to learn a topic that is great what they do is they
+
+58
+00:03:29,699 --> 00:03:30,480
+go well it could
+
+59
+00:03:30,720 --> 00:03:31,620
+any other platform
+
+60
+00:03:33,030 --> 00:03:37,440
+and the sorted by easy medium hard start solving all the easy ones then
+
+61
+00:03:37,440 --> 00:03:40,549
+the go-to medium then they go too hard they end up solving hundred hundred
+
+62
+00:03:40,560 --> 00:03:45,960
+fifty problems and most of them are repeating patterns not required is not necessary
+
+63
+00:03:45,990 --> 00:03:49,980
+what you need to do is to identify patterns for an example a topic
+
+64
+00:03:49,980 --> 00:03:52,680
+like binary search it has probably ten or twelve
+
+65
+00:03:53,520 --> 00:03:56,130
+what you need to do is ready to cover these ten or twelve patterns
+
+66
+00:03:56,340 --> 00:03:58,410
+for every pattern if need to problems
+
+67
+00:03:59,940 --> 00:04:04,530
+whatever number of problems you need to understand that pattern that it might happen
+
+68
+00:04:04,530 --> 00:04:08,490
+for a pattern in binary search for a pattern in my research you might
+
+69
+00:04:08,490 --> 00:04:12,644
+need one to understand it and depth the moment you understand that pattern that
+
+70
+00:04:12,660 --> 00:04:17,280
+move ahead just do not solve like keep solving problems just because you enjoy
+
+71
+00:04:17,280 --> 00:04:19,470
+that pattern it's important to finish up
+
+72
+00:04:19,680 --> 00:04:24,418
+wrap up the topics quickly like i made this binary search playlist what made
+
+73
+00:04:24,418 --> 00:04:25,003
+it and
+
+74
+00:04:25,680 --> 00:04:29,970
+do you understand it and you can solve any of the progress so please
+
+75
+00:04:30,180 --> 00:04:34,020
+do not solve problems by just giving topic names it is good when you
+
+76
+00:04:34,020 --> 00:04:38,100
+are revising but we're learning it's important to be quick because you need to
+
+77
+00:04:38,100 --> 00:04:40,410
+do a lot of other things as well point number three
+
+78
+00:04:40,680 --> 00:04:45,510
+participate in contest why am i saying a common trend whoever is solving five
+
+79
+00:04:45,510 --> 00:04:49,170
+hundred eight hundred thousand and fourteen hundred whatever is the number most of them
+
+80
+00:04:49,230 --> 00:04:52,289
+are not participating in contests and at the end of the day whenever they
+
+81
+00:04:52,290 --> 00:04:57,630
+go into the coding now struggling to understand one thing that in the difficulty
+
+82
+00:04:57,630 --> 00:05:00,510
+level is slightly tougher because the competition is
+
+83
+00:05:01,470 --> 00:05:04,799
+so you have to be at your best you cannot say that i'll get
+
+84
+00:05:04,799 --> 00:05:08,760
+the interview until clear written order to get that interview collect thousands of people
+
+85
+00:05:08,760 --> 00:05:12,480
+appearing for an opening so you have to be prepared for that coding out
+
+86
+00:05:12,497 --> 00:05:17,130
+and nowadays the coding nouns are getting tougher and tougher that is why participating
+
+87
+00:05:17,130 --> 00:05:20,670
+in contest is very critical water coding rooms it's a closed
+
+88
+00:05:20,880 --> 00:05:24,630
+payment with unknown questions with a timer how can you replicate that how can
+
+89
+00:05:24,630 --> 00:05:29,190
+you practice that environments the best ways to participate in contests just opening a
+
+90
+00:05:29,190 --> 00:05:33,300
+lead core problem and solving is not under that pressure women try not under
+
+91
+00:05:33,300 --> 00:05:38,280
+the pressure of that time timer ticking up you got you need to practice
+
+92
+00:05:38,520 --> 00:05:41,040
+that is why please please participate
+
+93
+00:05:41,310 --> 00:05:46,590
+in contest and after the contest is finished pleas of solve the problems that
+
+94
+00:05:46,590 --> 00:05:49,860
+even not able to because this is how you'll understand if you are able
+
+95
+00:05:49,860 --> 00:05:54,059
+to apply those concepts or not and whichever concepts are still weak try to
+
+96
+00:05:54,059 --> 00:05:57,960
+solve more and more problems on that instead of solving random problems and like
+
+97
+00:05:57,960 --> 00:06:00,660
+increasing your number count got a phone number four
+
+98
+00:06:01,201 --> 00:06:05,069
+to diversify topics as much as you can why am i saying that i've
+
+99
+00:06:05,069 --> 00:06:08,040
+seen a lot of profiles that sold like five hundred eight hundred lead to
+
+100
+00:06:08,076 --> 00:06:11,910
+problems and when i go over the profile i see that the topic specifically
+
+101
+00:06:11,910 --> 00:06:14,160
+the advanced topics like p
+
+102
+00:06:14,160 --> 00:06:18,690
+the trees try haven't solved a lot of problems on its side a notion
+
+103
+00:06:18,690 --> 00:06:21,960
+that people are solving a lot of problems but they're solving something like a
+
+104
+00:06:21,960 --> 00:06:26,700
+binary search list the upper like the easy medium section a lot but when
+
+105
+00:06:26,700 --> 00:06:30,330
+it comes to the harder like advanced concepts that kind of backing up so
+
+106
+00:06:30,360 --> 00:06:34,200
+it's critical that when you're picking up a topic don't get into this notion
+
+107
+00:06:34,200 --> 00:06:34,320
+that
+
+108
+00:06:34,500 --> 00:06:35,786
+i'm going to learn it entirely
+
+109
+00:06:37,140 --> 00:06:40,800
+binary research because you can never learn a topic entirely
+
+110
+00:06:40,800 --> 00:06:45,284
+you can never learn anything entirely on this planet you're picking up
+
+111
+00:06:46,200 --> 00:06:50,760
+assume your playlist it's fine it's time to move on you'll be tested when
+
+112
+00:06:50,760 --> 00:06:53,910
+you're giving contest the moment you give contest you'll find the problem on by
+
+113
+00:06:53,911 --> 00:06:58,500
+research if you cannot absolve and that is how you learn you just cannot
+
+114
+00:06:58,500 --> 00:07:02,340
+stick to binary search for six months we gotta move to advance topics to
+
+115
+00:07:02,340 --> 00:07:05,730
+try to diversify topics as much as you can try touching
+
+116
+00:07:05,790 --> 00:07:11,580
+all the topics because that is important having a well diversified number on all
+
+117
+00:07:11,580 --> 00:07:15,210
+the topics is like that is what will matter when you go to interviews
+
+118
+00:07:17,340 --> 00:07:20,760
+only you can be on any topic and for that it should be knowing
+
+119
+00:07:20,760 --> 00:07:23,698
+that topic in order to at least give it a try that is why
+
+120
+00:07:23,730 --> 00:07:28,080
+try diversifying topics do not look at numbers just keep solving at the end
+
+121
+00:07:28,080 --> 00:07:30,960
+of one year you will see that the numbers are good look at your
+
+122
+00:07:30,960 --> 00:07:34,739
+profile they will be great solving it for the purpose of the numbers it
+
+123
+00:07:34,739 --> 00:07:35,335
+won't help your
+
+124
+00:07:36,539 --> 00:07:40,290
+quality problems pattern by and on all the topics you should definitely check out
+
+125
+00:07:40,290 --> 00:07:41,520
+seven years ago
+
+126
+00:07:42,117 --> 00:07:45,360
+the link in the description you get video solutions as well you get the
+
+127
+00:07:45,360 --> 00:07:49,260
+articles as well you get the c plus plus job of javascript code as
+
+128
+00:07:49,260 --> 00:07:52,920
+well and that is all you will be requiring for your interview prep along
+
+129
+00:07:52,920 --> 00:07:56,400
+with getting your project's done as important as well so do not miss out
+
+130
+00:07:56,400 --> 00:07:59,580
+on that aspect and a possible to get a mentor who will be leaving
+
+131
+00:07:59,580 --> 00:08:01,423
+your resume will be taking your mock interviews
+
+132
+00:08:01,739 --> 00:08:05,760
+pushing you every now and then checkout replaced for some amazing mentors the link
+
+133
+00:08:05,760 --> 00:08:06,660
+between the reception
+
+134
+00:08:07,681 --> 00:08:08,855
+video and and some other videos
+
+135
+00:08:13,710 --> 00:08:13,740
+oh
+
+136
+00:08:19,710 --> 00:08:19,740
+oh
+
+137
+00:08:23,100 --> 00:08:23,130
+oh
+
